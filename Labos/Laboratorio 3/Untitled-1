@@ -1,0 +1,17 @@
+
+2.Realiza un programa en C, que pida números mientras no se ingrese uno negativo.
+ Al final, se debe mostrar la suma de los números pares ingresados
+
+4.Escribir un programa que permita al usuario dos años (ej: 2005)  recorrer todos
+ los años entre esas dos fechas y mostrar sólo los años que sean bisiestos.
+Nota: para que un año sea bisiesto debe ser divisible por 4 y no debe ser 
+divisible por 100, excepto que también sea divisible por 400.
+
+5.Escribir un programa que solicite:
+    -La letra inicial del Nombre del Estudiante
+    -La cantidad de notas a promediar 
+Si el valor promediado es mayor o igual a 7.0, está aprobado. 
+Al final debe preguntarle al usuario si quiere ingresar otro alumno para
+ promediar sus notas. El programa debe repetirse hasta que la respuesta sea +“no”.
+
+00174118
