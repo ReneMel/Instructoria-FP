@@ -104,7 +104,7 @@ char winningmove(char Board[3][3], int i, int j) {
   }
   else if (i == j && Board[i][j] == Board[(i+1)%3][(j+1)%3]
                   && Board[i][j] == Board[(i+2)%3][(j+2)%3])
-  {
+  {++
     // Diagonal
     return Board[i][j];
   }
